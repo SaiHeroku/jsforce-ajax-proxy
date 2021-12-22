@@ -1,4 +1,4 @@
-# JSforce AJAX Proxy
+# JSforce AJAX Proxy test
 
 A proxy server to access Salesforce API from JSforce JavaScript apps served outside of Salesforce.
 
